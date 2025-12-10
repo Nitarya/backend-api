@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "name": "Summer Sale 2025",
+    "budget": 50000,
+    "status": "active",
+    "startDate": "2025-06-01",
+    "endDate": "2025-08-31",
+    "targetAudience": "Young Adults",
+    "platform": "Social Media",
+    "createdAt": "2025-05-15T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Holiday Special",
+    "budget": 75000,
+    "status": "active",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-31",
+    "targetAudience": "Families",
+    "platform": "TV & Digital",
+    "createdAt": "2025-11-01T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Product Launch Campaign",
+    "budget": 100000,
+    "status": "planned",
+    "startDate": "2026-01-15",
+    "endDate": "2026-03-15",
+    "targetAudience": "Tech Enthusiasts",
+    "platform": "Digital",
+    "createdAt": "2025-12-01T00:00:00.000Z"
+  },
+  {
+    "id": "1765394462352",
+    "name": "Test Campaign",
+    "budget": 25000,
+    "status": "planned",
+    "platform": "Digital",
+    "createdAt": "2025-12-10T19:21:02.352Z"
+  },
+  {
+    "id": "1765394636948",
+    "name": "Random Nitya Campaign",
+    "budget": 5000,
+    "status": "planned",
+    "startDate": "2025-12-11",
+    "endDate": "2025-12-29",
+    "targetAudience": "Kids",
+    "platform": "Facebook",
+    "createdAt": "2025-12-10T19:23:56.948Z"
+  }
+]
